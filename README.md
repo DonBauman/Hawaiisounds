@@ -1,4 +1,3 @@
-
 HawaiiSounds
 HawaiiSounds is a music player app dedicated to Hawaiian music. The app provides a simple interface for users to enjoy traditional Hawaiian songs with a modern touch. Built using Android Studio, this project incorporates Java, Kotlin, and Jetpack Compose, utilizing the latest API version to ensure a seamless and contemporary user experience.
 
@@ -20,7 +19,7 @@ A step-by-step series of examples that tell you how to get a development environ
 Clone the repository from GitHub:
 bash
 Copy code
-git clone https://github.com/yourusername/HawaiiSounds.git
+git clone https://github.com/Donbauman/HawaiiSounds.git
 Open the project in Android Studio:
 mathematica
 Copy code
